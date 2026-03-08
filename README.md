@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ambika Sharma</h1>
-<h3 align="center">A Data scientist</h3>
+<h3 align="center">A BPS Trainee at TCS </h3>
 
 - 🔭 I’m currently working on [Employee Attrition](https://github.com/AMBIKASharmaRajasthan/Attrition-dataset)
 
-- 🌱 I’m currently learning **Deep Learning, Gen AI , NLP**
+- 🌱 I’m currently learning ** Applied Data Science and Analytics **
 
 - 👨‍💻 All of my projects are available at [https://github.com/AMBIKASharmaRajasthan/](https://github.com/AMBIKASharmaRajasthan/)
 
-- 💬 Ask me about **DATA SCIENCE**
+- 💬 Ask me about **Analytics**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ambika-sharma-036804246/**
 
