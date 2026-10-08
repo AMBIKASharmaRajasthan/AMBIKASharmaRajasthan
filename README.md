@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ambika Sharma</h1>
-<h3 align="center">A BPS Trainee at TCS </h3>
+<h3 align="center">Data science and Analytics </h3>
 
 - 🔭 I’m currently working on [Employee Attrition](https://github.com/AMBIKASharmaRajasthan/Attrition-dataset)
 
